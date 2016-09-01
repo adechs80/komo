@@ -139,7 +139,7 @@ function processMessage($message) {
 }
 
 
-define('WEBHOOK_URL', 'https://github.com/adechs80/komo/blob/master/hellobot.php/');
+define('WEBHOOK_URL', 'https://github.com/adechs80/komo/tree/awal/');
 
 if (php_sapi_name() == 'cli') {
 	// if run from console, set or delete webhook
